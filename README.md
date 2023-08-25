@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sdurga121
-- 👀 I’m interested in ...c, python
-- 🌱 I’m currently learning ... machine learning
+- 👋 Hi, I’m Durgaprasadchary 
+- 👀 I’m interested in ... HTML CSS, Javascript,Sql,python
+- 🌱 I’m software developer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
